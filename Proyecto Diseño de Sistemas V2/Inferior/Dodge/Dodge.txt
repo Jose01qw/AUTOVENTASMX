@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang= "en">
+<head>
+   <meta charset="UTF-8">
+   <title>AUTOVENTASMX</title>
+<link rel="stylesheet" href="C:\Users\Jose Antonio Cruz Al\Desktop\Proyecto Diseño de Sistemas V2\Inferior\Style.css">
+<head>
+<div class="container"> 
+<body bgcolor="black">
+<table border ="0px">
+<tr>
+  <td><center> 
+   <div class="img-container" style=>
+      <img src="Ford f-150.png" alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container1').classList.toggle('show')">FORD F-150 2017</button> <div class="text-container text-container1">
+           <font face = "Agency FB"><font size = "3"><strong><p>-$450,000</p>
+           <p>-Motor: 5.0lts V8</p>
+           <p>-Km: 67,520</p>
+           <p>-Gasolina Premium</p>
+
+
+ <td><center> 
+   <div class="img-container">
+      <img src="Ford taurus.png" alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container2').classList.toggle('show')">FORD TAURUS 2016</button> <div class="text-container text-container2">
+        <font face = "Agency FB"><font size = "3"><strong>
+           <p>-$150,600</p>
+           <p>-Motor: 3.5lts V6</p>
+           <p>-Km: 105.320</p>
+           <p>-Gasolina Premium</p>
+<td><center> 
+   <div class="img-container">
+      <img src="Ford Explorer.png" alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container3').classList.toggle('show')">FORD EXPLORER 2015</button> <div class="text-container text-container3">
+        <font face = "Agency FB"><font size = "3"><strong>
+           <p>-$310,400</p>
+           <p>-Motor: 3.5lts V6</p>
+           <p>-Km: 42,200</p>
+           <p>-Gasolina Premium</p>
+<td><center> 
+   <div class="img-container">
+      <img src="Ford Mustang.png" width= "150" height= "220" alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container4').classList.toggle('show')">FORD MUSTANG GT350</button> <div class="text-container text-container4">
+      <font face = "Agency FB"><font size = "3"><strong>
+           <p>-$960,500</p>
+           <p>-Motor: 5.2lts V8</p>
+           <p>-Km: 150,000</p>
+           <p>-Gasolina Premium</p>
+<td><center> 
+   <div class="img-container">
+      <img src="Ford Ranger.png"  width= "220" height= "220"  alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container5').classList.toggle('show')">FORD RANGER 2015</button> <div class="text-container text-container5">
+        <font face = "Agency FB"><font size = "3"><strong>
+           <p>-$350,700</p>
+           <p>-Motor: 2.5lts V4</p>
+           <p>-Km: 100,540</p>
+           <p>-Gasolina Premium</p>
+      </div>
+<tr><center> 
+   <td><td><div  style="padding-bottom: 150px;"></div><div class="img-container">
+      <img src="Ford Transit.png" width= "220" height= "220" alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container6').classList.toggle('show')">FORD TRANSIT 2020</button> <div class="text-container text-container6">
+       <center><font face = "Agency FB"><font size = "3"><strong>
+           <p>-$525,000</p>
+           <p>-Motor: 3.5lts V6</p>
+           <p>-Km: 75,000</p>
+           <p>-Diesel</p></div>
+<center> 
+  <td><div  style="padding-bottom: 150px;"></div><div class="img-container">
+      <img src="Ford Focus.png" width= "150" height= "220" alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container7').classList.toggle('show')">FORD FOCUS 2017</button> <div class="text-container text-container7">
+ <center><font face = "Agency FB"><font size = "3"><strong>
+           <p>-$270,000</p>
+           <p>-Motor: 2.0lts V4</p>
+           <p>-Km: 88,000</p>
+           <p>-Gasolina Premium</p></div>
+       
+<center> 
+  <td><div  style="padding-bottom: 150px;"></div><div class="img-container">
+      <img src="Ford Ecosport.png" width= "150" height= "225"alt="Descripción de la imagen">
+      <div class="btn-container">
+        <button class="btn" onclick="document.querySelector('.text-container8').classList.toggle('show')">FORD ECOSPORT 2020</button> <div class="text-container text-container8">
+       <center><font face = "Agency FB"><font size = "3"><strong>
+           <p>-$304,000</p>
+           <p>-Motor: 2.0lts V4</p>
+           <p>-Km: 38,000</p>
+           <p>-Gasolina Premium</p>
+  </body>
+</table>
+  </div>
+</html>

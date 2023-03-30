@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang= "en">
+<head>
+   <meta charset="UTF-8">
+   <title>Practica 7</title>
+<head>
+   <frameset rows="10%,*" frameborder="yes" bordercolor="#333" marginwidth="10%" marginheight="10%" scrolling="no">
+         <frame src="Frame 1/superior.html" name="sup"></frame>
+         <frameset cols="20%,*" frameborder="yes" bordercolor="#333" marginwidth="10%" marginheight="30%" scrolling="yes">
+               <frame src="izquierdo.html" name="izq"></frame>
+                <frame src="derecho.html" name="der"></frame>
+         </frameset>
+</html>

@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang= "en">
+<head>
+   <meta charset="UTF-8">
+   <title>AUTOVENTASMX</title>
+<head>
+<tr>
+<td><strong><font color="#A93226 " size= "5">Nombre</font></strong></td>
+<td><strong><font color="#A93226 " size= "5">Caracteristicas</font></strong></td>
+<td><strong><font color="#A93226 " size= "5">Precio</font></strong></td>
+<td><strong><font color="#A93226 " size= "5">Imagen</font></strong></td>
+</tr>
+</head>
+</html>

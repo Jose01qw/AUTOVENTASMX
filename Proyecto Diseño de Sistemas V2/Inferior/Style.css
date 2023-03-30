@@ -1,0 +1,89 @@
+.container{
+  
+  display: flex;
+  justify-content: center;
+  
+
+}
+
+.imagen{
+ 
+  width: 100;
+  height: 100;
+  margin: 0 10px;
+
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+
+a {
+  
+  text-decoration: none;
+
+}
+td {
+
+justify-content: space-evenly;
+
+}
+  /* Estilos para la imagen */
+      .img-container {
+        position: sticky;
+        width: 300px;
+        max-width: 600px;
+      
+      }
+      .img-container img {
+        display: block;
+        width: 100%;
+      }
+
+      /* Estilos para los botones */
+      .btn-container {
+        position: absolute;
+       
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .btn {
+        position: absolute;
+        width: 220px;
+padding: 10px 20px;
+        margin: 0 10px;
+        background-color: #333;
+        color: #fff;
+        font-size: 16px;
+        border: none;
+        border-radius: 5px 5px 0 0;
+        cursor: pointer;
+      }
+      
+      /* Estilos para el texto desplegable */
+      .text-container {
+        position: absolute;
+        width: 200px;
+        max-height: 0;
+       top:25px;
+        overflow: hidden;
+        transition: max-height 0.5s ease-out;
+        background-color: #f2f2f2;
+        padding: 10px;
+        border-radius: 0 0 5px 5px;
+      }
+      /* Clase que activa la transición del texto */
+      .show {
+        max-height: 500px; /* Altura máxima que se desplegará el texto */
+      }
+
+
+
+
+
+
